@@ -82,16 +82,6 @@ Sanitätsdienste, Katastrophenschutz, Rettungsdienst, Eventmedizin, Übungsszena
 
 ---
 
-## 🔮 Geplante Erweiterungen
-
-- Exportfunktion (PDF / CSV)
-- Filter- und Suchfunktion nach Status oder Trupp
-- Touch-optimierte Oberfläche
-- Mehrsprachigkeit (z. B. DE / EN)
-- Benutzerverwaltung (optional)
-
----
-
 ## 👨‍💻 Entwickler
 
 Projektleitung & Umsetzung:  
